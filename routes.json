@@ -1,0 +1,1890 @@
+{
+    "R0": {
+        "id": 0,
+        "name": "Capitole --> CiteEspc",
+        "length": 4435.1,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "CiteEspc",
+        "end_coord": [
+            43.5893,
+            1.4946
+        ],
+        "remarks": "No remarks"
+    },
+    "R1": {
+        "id": 1,
+        "name": "Capitole --> AeroMus",
+        "length": 9162.3,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "AeroMus",
+        "end_coord": [
+            43.6636,
+            1.3648
+        ],
+        "remarks": "No remarks"
+    },
+    "R2": {
+        "id": 2,
+        "name": "Capitole --> JardPlan",
+        "length": 1245.2,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R3": {
+        "id": 3,
+        "name": "Capitole --> JardJapn",
+        "length": 1296.4,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R4": {
+        "id": 4,
+        "name": "Capitole --> PraFilts",
+        "length": 1152.6,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R5": {
+        "id": 5,
+        "name": "Capitole --> MuseTouls",
+        "length": 1373.5,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R6": {
+        "id": 6,
+        "name": "Capitole --> HalleGrns",
+        "length": 1116.1,
+        "start": "Capitole",
+        "start_coord": [
+            43.6043,
+            1.4437
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R7": {
+        "id": 7,
+        "name": "StSernin --> CiteEspc",
+        "length": 4423.4,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "CiteEspc",
+        "end_coord": [
+            43.5893,
+            1.4946
+        ],
+        "remarks": "No remarks"
+    },
+    "R8": {
+        "id": 8,
+        "name": "StSernin --> AugMuse",
+        "length": 861.9,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "AugMuse",
+        "end_coord": [
+            43.5978,
+            1.4399
+        ],
+        "remarks": "No remarks"
+    },
+    "R9": {
+        "id": 9,
+        "name": "StSernin --> AeroMus",
+        "length": 9142.7,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "AeroMus",
+        "end_coord": [
+            43.6636,
+            1.3648
+        ],
+        "remarks": "No remarks"
+    },
+    "R10": {
+        "id": 10,
+        "name": "StSernin --> JardPlan",
+        "length": 1183.8,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R11": {
+        "id": 11,
+        "name": "StSernin --> JardJapn",
+        "length": 1275.7,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R12": {
+        "id": 12,
+        "name": "StSernin --> PraFilts",
+        "length": 1224.0,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R13": {
+        "id": 13,
+        "name": "StSernin --> MuseTouls",
+        "length": 1444.2,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R14": {
+        "id": 14,
+        "name": "StSernin --> HalleGrns",
+        "length": 1041.8,
+        "start": "StSernin",
+        "start_coord": [
+            43.6049,
+            1.4442
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R15": {
+        "id": 15,
+        "name": "CiteEspc --> AugMuse",
+        "length": 4516.9,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "AugMuse",
+        "end_coord": [
+            43.5978,
+            1.4399
+        ],
+        "remarks": "No remarks"
+    },
+    "R16": {
+        "id": 16,
+        "name": "CiteEspc --> CanMidi",
+        "length": 5164.9,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "CanMidi",
+        "end_coord": [
+            43.6058,
+            1.4348
+        ],
+        "remarks": "No remarks"
+    },
+    "R17": {
+        "id": 17,
+        "name": "CiteEspc --> AeroMus",
+        "length": 13337.5,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "AeroMus",
+        "end_coord": [
+            43.6636,
+            1.3648
+        ],
+        "remarks": "No remarks"
+    },
+    "R18": {
+        "id": 18,
+        "name": "CiteEspc --> PontNeuf",
+        "length": 4377.7,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "PontNeuf",
+        "end_coord": [
+            43.604,
+            1.4443
+        ],
+        "remarks": "No remarks"
+    },
+    "R19": {
+        "id": 19,
+        "name": "CiteEspc --> PlCapitl",
+        "length": 4421.1,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "PlCapitl",
+        "end_coord": [
+            43.6045,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R20": {
+        "id": 20,
+        "name": "CiteEspc --> JardPlan",
+        "length": 3644.7,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R21": {
+        "id": 21,
+        "name": "CiteEspc --> JardJapn",
+        "length": 5627.7,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R22": {
+        "id": 22,
+        "name": "CiteEspc --> StRayMus",
+        "length": 4778.0,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "StRayMus",
+        "end_coord": [
+            43.609,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R23": {
+        "id": 23,
+        "name": "CiteEspc --> PraFilts",
+        "length": 4279.7,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R24": {
+        "id": 24,
+        "name": "CiteEspc --> PlStPier",
+        "length": 4435.9,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "PlStPier",
+        "end_coord": [
+            43.603,
+            1.443
+        ],
+        "remarks": "No remarks"
+    },
+    "R25": {
+        "id": 25,
+        "name": "CiteEspc --> ChateauEa",
+        "length": 4255.4,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R26": {
+        "id": 26,
+        "name": "CiteEspc --> HotelAssz",
+        "length": 4629.2,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "HotelAssz",
+        "end_coord": [
+            43.602,
+            1.44
+        ],
+        "remarks": "No remarks"
+    },
+    "R27": {
+        "id": 27,
+        "name": "CiteEspc --> BasiDaur",
+        "length": 4210.8,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R28": {
+        "id": 28,
+        "name": "CiteEspc --> CentAffch",
+        "length": 4120.3,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R29": {
+        "id": 29,
+        "name": "CiteEspc --> MuseTouls",
+        "length": 4258.3,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R30": {
+        "id": 30,
+        "name": "CiteEspc --> CouvJaco",
+        "length": 4753.8,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R31": {
+        "id": 31,
+        "name": "CiteEspc --> HalleGrns",
+        "length": 4069.3,
+        "start": "CiteEspc",
+        "start_coord": [
+            43.5893,
+            1.4946
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R32": {
+        "id": 32,
+        "name": "AugMuse --> CanMidi",
+        "length": 979.6,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "CanMidi",
+        "end_coord": [
+            43.6058,
+            1.4348
+        ],
+        "remarks": "No remarks"
+    },
+    "R33": {
+        "id": 33,
+        "name": "AugMuse --> AeroMus",
+        "length": 9496.3,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "AeroMus",
+        "end_coord": [
+            43.6636,
+            1.3648
+        ],
+        "remarks": "No remarks"
+    },
+    "R34": {
+        "id": 34,
+        "name": "AugMuse --> PlCapitl",
+        "length": 814.7,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "PlCapitl",
+        "end_coord": [
+            43.6045,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R35": {
+        "id": 35,
+        "name": "AugMuse --> JardPlan",
+        "length": 1883.9,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R36": {
+        "id": 36,
+        "name": "AugMuse --> JardJapn",
+        "length": 1778.3,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R37": {
+        "id": 37,
+        "name": "AugMuse --> StRayMus",
+        "length": 1255.9,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "StRayMus",
+        "end_coord": [
+            43.609,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R38": {
+        "id": 38,
+        "name": "AugMuse --> CouvJaco",
+        "length": 1026.0,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R39": {
+        "id": 39,
+        "name": "AugMuse --> HalleGrns",
+        "length": 1856.6,
+        "start": "AugMuse",
+        "start_coord": [
+            43.5978,
+            1.4399
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R40": {
+        "id": 40,
+        "name": "CanMidi --> AeroMus",
+        "length": 8552.7,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "AeroMus",
+        "end_coord": [
+            43.6636,
+            1.3648
+        ],
+        "remarks": "No remarks"
+    },
+    "R41": {
+        "id": 41,
+        "name": "CanMidi --> JardPlan",
+        "length": 1896.9,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R42": {
+        "id": 42,
+        "name": "CanMidi --> JardJapn",
+        "length": 813.0,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R43": {
+        "id": 43,
+        "name": "CanMidi --> PraFilts",
+        "length": 1434.1,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R44": {
+        "id": 44,
+        "name": "CanMidi --> ChateauEa",
+        "length": 983.4,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R45": {
+        "id": 45,
+        "name": "CanMidi --> BasiDaur",
+        "length": 981.1,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R46": {
+        "id": 46,
+        "name": "CanMidi --> CentAffch",
+        "length": 1195.5,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R47": {
+        "id": 47,
+        "name": "CanMidi --> MuseTouls",
+        "length": 1639.8,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R48": {
+        "id": 48,
+        "name": "CanMidi --> HalleGrns",
+        "length": 1654.2,
+        "start": "CanMidi",
+        "start_coord": [
+            43.6058,
+            1.4348
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R49": {
+        "id": 49,
+        "name": "AeroMus --> PontNeuf",
+        "length": 9219.9,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "PontNeuf",
+        "end_coord": [
+            43.604,
+            1.4443
+        ],
+        "remarks": "No remarks"
+    },
+    "R50": {
+        "id": 50,
+        "name": "AeroMus --> PlCapitl",
+        "length": 9163.2,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "PlCapitl",
+        "end_coord": [
+            43.6045,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R51": {
+        "id": 51,
+        "name": "AeroMus --> JardPlan",
+        "length": 9697.4,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R52": {
+        "id": 52,
+        "name": "AeroMus --> JardJapn",
+        "length": 7867.1,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R53": {
+        "id": 53,
+        "name": "AeroMus --> StRayMus",
+        "length": 8695.3,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "StRayMus",
+        "end_coord": [
+            43.609,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R54": {
+        "id": 54,
+        "name": "AeroMus --> PraFilts",
+        "length": 9930.5,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R55": {
+        "id": 55,
+        "name": "AeroMus --> PlStPier",
+        "length": 9228.0,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "PlStPier",
+        "end_coord": [
+            43.603,
+            1.443
+        ],
+        "remarks": "No remarks"
+    },
+    "R56": {
+        "id": 56,
+        "name": "AeroMus --> ChateauEa",
+        "length": 9528.0,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R57": {
+        "id": 57,
+        "name": "AeroMus --> HotelAssz",
+        "length": 9147.1,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "HotelAssz",
+        "end_coord": [
+            43.602,
+            1.44
+        ],
+        "remarks": "No remarks"
+    },
+    "R58": {
+        "id": 58,
+        "name": "AeroMus --> BasiDaur",
+        "length": 9500.7,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R59": {
+        "id": 59,
+        "name": "AeroMus --> CentAffch",
+        "length": 9747.4,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R60": {
+        "id": 60,
+        "name": "AeroMus --> MuseTouls",
+        "length": 10104.6,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R61": {
+        "id": 61,
+        "name": "AeroMus --> CouvJaco",
+        "length": 8795.2,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R62": {
+        "id": 62,
+        "name": "AeroMus --> HalleGrns",
+        "length": 9271.6,
+        "start": "AeroMus",
+        "start_coord": [
+            43.6636,
+            1.3648
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R63": {
+        "id": 63,
+        "name": "PontNeuf --> JardPlan",
+        "length": 1213.8,
+        "start": "PontNeuf",
+        "start_coord": [
+            43.604,
+            1.4443
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R64": {
+        "id": 64,
+        "name": "PontNeuf --> JardJapn",
+        "length": 1353.6,
+        "start": "PontNeuf",
+        "start_coord": [
+            43.604,
+            1.4443
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R65": {
+        "id": 65,
+        "name": "PontNeuf --> PraFilts",
+        "length": 1126.5,
+        "start": "PontNeuf",
+        "start_coord": [
+            43.604,
+            1.4443
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R66": {
+        "id": 66,
+        "name": "PontNeuf --> MuseTouls",
+        "length": 1346.1,
+        "start": "PontNeuf",
+        "start_coord": [
+            43.604,
+            1.4443
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R67": {
+        "id": 67,
+        "name": "PontNeuf --> HalleGrns",
+        "length": 1103.7,
+        "start": "PontNeuf",
+        "start_coord": [
+            43.604,
+            1.4443
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R68": {
+        "id": 68,
+        "name": "PlCapitl --> JardPlan",
+        "length": 1214.5,
+        "start": "PlCapitl",
+        "start_coord": [
+            43.6045,
+            1.444
+        ],
+        "end": "JardPlan",
+        "end_coord": [
+            43.6085,
+            1.458
+        ],
+        "remarks": "No remarks"
+    },
+    "R69": {
+        "id": 69,
+        "name": "PlCapitl --> JardJapn",
+        "length": 1296.3,
+        "start": "PlCapitl",
+        "start_coord": [
+            43.6045,
+            1.444
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R70": {
+        "id": 70,
+        "name": "PlCapitl --> PraFilts",
+        "length": 1177.7,
+        "start": "PlCapitl",
+        "start_coord": [
+            43.6045,
+            1.444
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R71": {
+        "id": 71,
+        "name": "PlCapitl --> MuseTouls",
+        "length": 1398.2,
+        "start": "PlCapitl",
+        "start_coord": [
+            43.6045,
+            1.444
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R72": {
+        "id": 72,
+        "name": "PlCapitl --> HalleGrns",
+        "length": 1083.2,
+        "start": "PlCapitl",
+        "start_coord": [
+            43.6045,
+            1.444
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R73": {
+        "id": 73,
+        "name": "JardPlan --> JardJapn",
+        "length": 2079.2,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "JardJapn",
+        "end_coord": [
+            43.613,
+            1.433
+        ],
+        "remarks": "No remarks"
+    },
+    "R74": {
+        "id": 74,
+        "name": "JardPlan --> StRayMus",
+        "length": 1292.9,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "StRayMus",
+        "end_coord": [
+            43.609,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R75": {
+        "id": 75,
+        "name": "JardPlan --> PraFilts",
+        "length": 2065.0,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R76": {
+        "id": 76,
+        "name": "JardPlan --> PlStPier",
+        "length": 1356.5,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "PlStPier",
+        "end_coord": [
+            43.603,
+            1.443
+        ],
+        "remarks": "No remarks"
+    },
+    "R77": {
+        "id": 77,
+        "name": "JardPlan --> ChateauEa",
+        "length": 1472.9,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R78": {
+        "id": 78,
+        "name": "JardPlan --> HotelAssz",
+        "length": 1622.8,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "HotelAssz",
+        "end_coord": [
+            43.602,
+            1.44
+        ],
+        "remarks": "No remarks"
+    },
+    "R79": {
+        "id": 79,
+        "name": "JardPlan --> BasiDaur",
+        "length": 1340.1,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R80": {
+        "id": 80,
+        "name": "JardPlan --> CentAffch",
+        "length": 1569.3,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R81": {
+        "id": 81,
+        "name": "JardPlan --> MuseTouls",
+        "length": 2242.7,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R82": {
+        "id": 82,
+        "name": "JardPlan --> CouvJaco",
+        "length": 1382.5,
+        "start": "JardPlan",
+        "start_coord": [
+            43.6085,
+            1.458
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R83": {
+        "id": 83,
+        "name": "JardJapn --> StRayMus",
+        "length": 851.7,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "StRayMus",
+        "end_coord": [
+            43.609,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R84": {
+        "id": 84,
+        "name": "JardJapn --> PraFilts",
+        "length": 2232.5,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R85": {
+        "id": 85,
+        "name": "JardJapn --> PlStPier",
+        "length": 1373.4,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "PlStPier",
+        "end_coord": [
+            43.603,
+            1.443
+        ],
+        "remarks": "No remarks"
+    },
+    "R86": {
+        "id": 86,
+        "name": "JardJapn --> ChateauEa",
+        "length": 1695.5,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R87": {
+        "id": 87,
+        "name": "JardJapn --> HotelAssz",
+        "length": 1346.5,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "HotelAssz",
+        "end_coord": [
+            43.602,
+            1.44
+        ],
+        "remarks": "No remarks"
+    },
+    "R88": {
+        "id": 88,
+        "name": "JardJapn --> BasiDaur",
+        "length": 1648.1,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R89": {
+        "id": 89,
+        "name": "JardJapn --> CentAffch",
+        "length": 1927.7,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R90": {
+        "id": 90,
+        "name": "JardJapn --> MuseTouls",
+        "length": 2443.7,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R91": {
+        "id": 91,
+        "name": "JardJapn --> CouvJaco",
+        "length": 928.2,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R92": {
+        "id": 92,
+        "name": "JardJapn --> HalleGrns",
+        "length": 1709.8,
+        "start": "JardJapn",
+        "start_coord": [
+            43.613,
+            1.433
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R93": {
+        "id": 93,
+        "name": "StRayMus --> PraFilts",
+        "length": 1666.6,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "PraFilts",
+        "end_coord": [
+            43.594,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R94": {
+        "id": 94,
+        "name": "StRayMus --> ChateauEa",
+        "length": 1012.9,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "ChateauEa",
+        "end_coord": [
+            43.6,
+            1.444
+        ],
+        "remarks": "No remarks"
+    },
+    "R95": {
+        "id": 95,
+        "name": "StRayMus --> BasiDaur",
+        "length": 921.2,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R96": {
+        "id": 96,
+        "name": "StRayMus --> CentAffch",
+        "length": 1245.9,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "CentAffch",
+        "end_coord": [
+            43.598,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R97": {
+        "id": 97,
+        "name": "StRayMus --> MuseTouls",
+        "length": 1888.8,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R98": {
+        "id": 98,
+        "name": "StRayMus --> HalleGrns",
+        "length": 993.9,
+        "start": "StRayMus",
+        "start_coord": [
+            43.609,
+            1.442
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R99": {
+        "id": 99,
+        "name": "PraFilts --> PlStPier",
+        "length": 1003.2,
+        "start": "PraFilts",
+        "start_coord": [
+            43.594,
+            1.442
+        ],
+        "end": "PlStPier",
+        "end_coord": [
+            43.603,
+            1.443
+        ],
+        "remarks": "No remarks"
+    },
+    "R100": {
+        "id": 100,
+        "name": "PraFilts --> HotelAssz",
+        "length": 903.4,
+        "start": "PraFilts",
+        "start_coord": [
+            43.594,
+            1.442
+        ],
+        "end": "HotelAssz",
+        "end_coord": [
+            43.602,
+            1.44
+        ],
+        "remarks": "No remarks"
+    },
+    "R101": {
+        "id": 101,
+        "name": "PraFilts --> BasiDaur",
+        "length": 814.6,
+        "start": "PraFilts",
+        "start_coord": [
+            43.594,
+            1.442
+        ],
+        "end": "BasiDaur",
+        "end_coord": [
+            43.601,
+            1.445
+        ],
+        "remarks": "No remarks"
+    },
+    "R102": {
+        "id": 102,
+        "name": "PraFilts --> CouvJaco",
+        "length": 1446.6,
+        "start": "PraFilts",
+        "start_coord": [
+            43.594,
+            1.442
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R103": {
+        "id": 103,
+        "name": "PraFilts --> HalleGrns",
+        "length": 2122.8,
+        "start": "PraFilts",
+        "start_coord": [
+            43.594,
+            1.442
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R104": {
+        "id": 104,
+        "name": "PlStPier --> MuseTouls",
+        "length": 1224.8,
+        "start": "PlStPier",
+        "start_coord": [
+            43.603,
+            1.443
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R105": {
+        "id": 105,
+        "name": "PlStPier --> HalleGrns",
+        "length": 1256.5,
+        "start": "PlStPier",
+        "start_coord": [
+            43.603,
+            1.443
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R106": {
+        "id": 106,
+        "name": "ChateauEa --> MuseTouls",
+        "length": 903.4,
+        "start": "ChateauEa",
+        "start_coord": [
+            43.6,
+            1.444
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R107": {
+        "id": 107,
+        "name": "ChateauEa --> CouvJaco",
+        "length": 814.6,
+        "start": "ChateauEa",
+        "start_coord": [
+            43.6,
+            1.444
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R108": {
+        "id": 108,
+        "name": "ChateauEa --> HalleGrns",
+        "length": 1464.7,
+        "start": "ChateauEa",
+        "start_coord": [
+            43.6,
+            1.444
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R109": {
+        "id": 109,
+        "name": "HotelAssz --> MuseTouls",
+        "length": 1122.7,
+        "start": "HotelAssz",
+        "start_coord": [
+            43.602,
+            1.44
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R110": {
+        "id": 110,
+        "name": "HotelAssz --> HalleGrns",
+        "length": 1509.1,
+        "start": "HotelAssz",
+        "start_coord": [
+            43.602,
+            1.44
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R111": {
+        "id": 111,
+        "name": "BasiDaur --> MuseTouls",
+        "length": 1028.9,
+        "start": "BasiDaur",
+        "start_coord": [
+            43.601,
+            1.445
+        ],
+        "end": "MuseTouls",
+        "end_coord": [
+            43.592,
+            1.442
+        ],
+        "remarks": "No remarks"
+    },
+    "R112": {
+        "id": 112,
+        "name": "BasiDaur --> HalleGrns",
+        "length": 1327.6,
+        "start": "BasiDaur",
+        "start_coord": [
+            43.601,
+            1.445
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R113": {
+        "id": 113,
+        "name": "CentAffch --> CouvJaco",
+        "length": 1050.8,
+        "start": "CentAffch",
+        "start_coord": [
+            43.598,
+            1.445
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R114": {
+        "id": 114,
+        "name": "CentAffch --> HalleGrns",
+        "length": 1616.8,
+        "start": "CentAffch",
+        "start_coord": [
+            43.598,
+            1.445
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R115": {
+        "id": 115,
+        "name": "MuseTouls --> CouvJaco",
+        "length": 1668.5,
+        "start": "MuseTouls",
+        "start_coord": [
+            43.592,
+            1.442
+        ],
+        "end": "CouvJaco",
+        "end_coord": [
+            43.607,
+            1.441
+        ],
+        "remarks": "No remarks"
+    },
+    "R116": {
+        "id": 116,
+        "name": "MuseTouls --> HalleGrns",
+        "length": 2322.7,
+        "start": "MuseTouls",
+        "start_coord": [
+            43.592,
+            1.442
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    },
+    "R117": {
+        "id": 117,
+        "name": "CouvJaco --> HalleGrns",
+        "length": 1139.7,
+        "start": "CouvJaco",
+        "start_coord": [
+            43.607,
+            1.441
+        ],
+        "end": "HalleGrns",
+        "end_coord": [
+            43.611,
+            1.454
+        ],
+        "remarks": "No remarks"
+    }
+}

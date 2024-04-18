@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "python-testing"
+version = "0.1.0"
+description = ""
+authors = ["Adrian del Ser <adrian.delser@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+flet = "^0.13.0"
+numpy = "^1.26.2"
+matplotlib = "^3.8.2"
+rtree = "^1.1.0"
+shapely = "^2.0.2"
+ipywidgets = "^8.1.1"
+scipy = "^1.11.4"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.27.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

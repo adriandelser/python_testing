@@ -1,0 +1,222 @@
+{
+    "Capitole": [
+        {
+            "ID": 0,
+            "short_name": "Capitole",
+            "name": "Capitole de Toulouse",
+            "coords": [
+                43.6043,
+                1.4437
+            ]
+        }
+    ],
+    "StSernin": [
+        {
+            "ID": 1,
+            "short_name": "StSernin",
+            "name": "Basilique Saint-Sernin",
+            "coords": [
+                43.6049,
+                1.4442
+            ]
+        }
+    ],
+    "CiteEspc": [
+        {
+            "ID": 2,
+            "short_name": "CiteEspc",
+            "name": "Cite de l'espace",
+            "coords": [
+                43.5893,
+                1.4946
+            ]
+        }
+    ],
+    "AugMuse": [
+        {
+            "ID": 3,
+            "short_name": "AugMuse",
+            "name": "Musee des Augustins",
+            "coords": [
+                43.5978,
+                1.4399
+            ]
+        }
+    ],
+    "CanMidi": [
+        {
+            "ID": 4,
+            "short_name": "CanMidi",
+            "name": "Canal du Midi",
+            "coords": [
+                43.6058,
+                1.4348
+            ]
+        }
+    ],
+    "AeroMus": [
+        {
+            "ID": 5,
+            "short_name": "AeroMus",
+            "name": "Musee Aeroscopia",
+            "coords": [
+                43.6636,
+                1.3648
+            ]
+        }
+    ],
+    "PontNeuf": [
+        {
+            "ID": 6,
+            "short_name": "PontNeuf",
+            "name": "Pont Neuf, Toulouse",
+            "coords": [
+                43.604,
+                1.4443
+            ]
+        }
+    ],
+    "PlCapitl": [
+        {
+            "ID": 7,
+            "short_name": "PlCapitl",
+            "name": "Place du Capitole",
+            "coords": [
+                43.6045,
+                1.444
+            ]
+        }
+    ],
+    "JardPlan": [
+        {
+            "ID": 8,
+            "short_name": "JardPlan",
+            "name": "Jardin des Plantes, Toulouse",
+            "coords": [
+                43.6085,
+                1.458
+            ]
+        }
+    ],
+    "JardJapn": [
+        {
+            "ID": 9,
+            "short_name": "JardJapn",
+            "name": "Jardin Japonais, Toulouse",
+            "coords": [
+                43.613,
+                1.433
+            ]
+        }
+    ],
+    "StRayMus": [
+        {
+            "ID": 10,
+            "short_name": "StRayMus",
+            "name": "Musee Saint-Raymond",
+            "coords": [
+                43.609,
+                1.442
+            ]
+        }
+    ],
+    "PraFilts": [
+        {
+            "ID": 11,
+            "short_name": "PraFilts",
+            "name": "Prairie des Filtres",
+            "coords": [
+                43.594,
+                1.442
+            ]
+        }
+    ],
+    "PlStPier": [
+        {
+            "ID": 12,
+            "short_name": "PlStPier",
+            "name": "Place Saint-Pierre, Toulouse",
+            "coords": [
+                43.603,
+                1.443
+            ]
+        }
+    ],
+    "ChateauEa": [
+        {
+            "ID": 13,
+            "short_name": "ChateauEa",
+            "name": "Le Chateau d'Eau, Toulouse",
+            "coords": [
+                43.6,
+                1.444
+            ]
+        }
+    ],
+    "HotelAssz": [
+        {
+            "ID": 14,
+            "short_name": "HotelAssz",
+            "name": "Hotel d'Assezat",
+            "coords": [
+                43.602,
+                1.44
+            ]
+        }
+    ],
+    "BasiDaur": [
+        {
+            "ID": 15,
+            "short_name": "BasiDaur",
+            "name": "Basilique de la Daurade",
+            "coords": [
+                43.601,
+                1.445
+            ]
+        }
+    ],
+    "CentAffch": [
+        {
+            "ID": 16,
+            "short_name": "CentAffch",
+            "name": "Centre de l'affiche, Toulouse",
+            "coords": [
+                43.598,
+                1.445
+            ]
+        }
+    ],
+    "MuseTouls": [
+        {
+            "ID": 17,
+            "short_name": "MuseTouls",
+            "name": "Museum de Toulouse",
+            "coords": [
+                43.592,
+                1.442
+            ]
+        }
+    ],
+    "CouvJaco": [
+        {
+            "ID": 18,
+            "short_name": "CouvJaco",
+            "name": "Couvent des Jacobins, Toulouse",
+            "coords": [
+                43.607,
+                1.441
+            ]
+        }
+    ],
+    "HalleGrns": [
+        {
+            "ID": 19,
+            "short_name": "HalleGrns",
+            "name": "Halle aux grains, Toulouse",
+            "coords": [
+                43.611,
+                1.454
+            ]
+        }
+    ]
+}
